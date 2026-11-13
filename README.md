@@ -1,14 +1,14 @@
-# Painel de Avaliações de Delivery com IA
+# 📊 Painel de Avaliações de Delivery com IA
 
 Dashboard web que mostra os resultados do meu [**Classificador de Avaliações com IA**](https://github.com/roberta-sarah/classificador-avaliacoes-ia): avaliações de restaurantes classificadas automaticamente por **problema, sentimento e urgência** usando n8n e a API do Claude.
 
-🔗 **Ver o dashboard funcionando:** LINK_DO_DASHBOARD
+🔗 **Ver o dashboard funcionando:** https://painel-avaliacoes-ia.lovable.app
 
 > Construído com **Lovable** (vibe coding), a partir de um prompt que escrevi descrevendo os indicadores, gráficos e filtros necessários.
 
 ---
 
-## Para que serve
+## 🎯 Para que serve
 
 O classificador transforma avaliações em texto livre em dados estruturados. Este painel responde, de forma visual:
 
@@ -17,7 +17,7 @@ O classificador transforma avaliações em texto livre em dados estruturados. Es
 - Quais avaliações precisam de **atenção imediata** (urgência alta, como riscos à saúde)?
 - Como está o sentimento dos clientes em cada restaurante?
 
-## Como os dois projetos se conectam
+## 🔄 Como os dois projetos se conectam
 
 ```mermaid
 flowchart LR
@@ -37,11 +37,11 @@ flowchart LR
 - **Sentimento por restaurante**
 - **Tabela com filtros** por restaurante e por urgência, com **destaque em vermelho** para urgência alta
 
-## Conferência dos dados
+## ✅ Conferência dos dados
 
 Conferi os números do painel com a planilha de resultados do classificador: total de **20 avaliações** e **2 de urgência alta** (hambúrguer cru e pedido com alergia).
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 | Camada | Ferramenta |
 |---|---|
