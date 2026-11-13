@@ -80,19 +80,6 @@ Dados: [resultados exportados da planilha do classificador]
 
 </details>
 
-## ▶️ Como rodar localmente
-
-Requer [Node.js](https://nodejs.org).
-
-```sh
-git clone https://github.com/roberta-sarah/dashboard-avaliacoes-ia.git
-cd dashboard-avaliacoes-ia
-npm install
-npm run dev
-```
-
----
-
 Os dados são **fictícios**.
 
 **Autora:** Roberta Sarah · [LinkedIn](https://linkedin.com/in/roberta-sarah) · [GitHub](https://github.com/roberta-sarah)
